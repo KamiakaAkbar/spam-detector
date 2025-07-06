@@ -10,3 +10,12 @@ This project uses Machine Learning (Naive Bayes + TF-IDF) to classify SMS messag
 ## 📦 How to Run
 
 ### Step 1: Install packages
+pip install -r requirements.txt
+### Step 2: Train the model
+python train_model.py
+### Step 3: Run the app
+## 🔗 Dataset Source
+- [SMS Spam Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+
+## 👨‍💻 Author
+Kamran Akbar — GitHub: [KamiakaAkbar](https://github.com/KamiakaAkbar)
